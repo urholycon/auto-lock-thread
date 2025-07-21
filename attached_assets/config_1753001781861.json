@@ -1,0 +1,38 @@
+{
+    "authorized_roles": [
+        "Moderator",
+        "Admin",
+        "Staff",
+        "Helper"
+    ],
+    "lock_commands": [
+        "lock",
+        "lna"
+    ],
+    "auto_delete_timeout": 30,
+    "log_channel_name": "thread-logs",
+    "embed_color": 16729939,
+    "delete_confirmation_timeout": 60,
+    "auto_delete_channels": [1284896757662224604],
+    "guild_specific": {
+        "example_guild_id": {
+            "authorized_roles": [
+                "Custom Moderator",
+                "Custom Admin"
+            ]
+        }
+    },
+    "authorized_role_ids": {
+        "example_guild_id": [
+            123456789012345678,
+            987654321098765432
+        ],
+        "1252187253632008253": [
+            1284889393957437480,
+            1256722148723003575,
+            1261659721958690919,
+            1282485256682995742,
+            1293173273454182510
+        ]
+    }
+}

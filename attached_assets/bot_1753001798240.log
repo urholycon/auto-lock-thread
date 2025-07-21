@@ -1,0 +1,478 @@
+2025-07-20 01:36:16 - __main__ - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-07-20 01:36:16 - __main__ - ERROR - Please set DISCORD_TOKEN in your .env file or environment.
+2025-07-20 01:36:38 - __main__ - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-07-20 01:36:38 - __main__ - ERROR - Please set DISCORD_TOKEN in your .env file or environment.
+2025-07-20 01:39:50 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:39:50 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:39:50 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:39:50 - discord.client - INFO - logging in using static token
+2025-07-20 01:39:50 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:39:50 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:39:50 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:39:50 - discord.client - INFO - logging in using static token
+2025-07-20 01:39:51 - bot - INFO - Bot is setting up...
+2025-07-20 01:39:51 - bot - INFO - Bot is setting up...
+2025-07-20 01:39:51 - bot - INFO - Synced 0 command(s)
+2025-07-20 01:39:51 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-20 01:39:57 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:39:57 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:39:57 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:39:57 - discord.client - INFO - logging in using static token
+2025-07-20 01:39:57 - bot - INFO - Bot is setting up...
+2025-07-20 01:39:57 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1396304515183022081/commands responded with 429. Retrying in 23.48 seconds.
+2025-07-20 01:40:50 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:40:50 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:40:50 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:40:50 - discord.client - INFO - logging in using static token
+2025-07-20 01:40:50 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:40:50 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:40:50 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:40:50 - discord.client - INFO - logging in using static token
+2025-07-20 01:40:50 - bot - INFO - Bot is setting up...
+2025-07-20 01:40:50 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1396304515183022081/commands responded with 429. Retrying in 0.34 seconds.
+2025-07-20 01:40:51 - bot - INFO - Bot is setting up...
+2025-07-20 01:40:51 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1396304515183022081/commands responded with 429. Retrying in 0.30 seconds.
+2025-07-20 01:40:51 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1396304515183022081/commands responded with 429. Retrying in 29.69 seconds.
+2025-07-20 01:41:51 - bot - INFO - Synced 0 command(s)
+2025-07-20 01:41:51 - __main__ - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-20 01:42:21 - bot - INFO - Synced 0 command(s)
+2025-07-20 01:42:21 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8466cc4ccf315a193128282584f46ad2).
+2025-07-20 01:42:23 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 01:42:23 - bot - INFO - Bot is in 0 guild(s)
+2025-07-20 01:44:34 - thread_actions - INFO - [LOCK] Thread 'Discuss Here' by urhalcyon. in Aetherian Sovereignty
+2025-07-20 01:44:35 - handlers.thread_handler - INFO - Thread 'Discuss Here' locked by urhalcyon. in Aetherian Sovereignty
+2025-07-20 01:52:06 - thread_actions - INFO - [LOCK] Thread 'Morgan Braylon' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 01:52:06 - handlers.thread_handler - INFO - Thread 'Morgan Braylon' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 01:55:35 - thread_actions - INFO - [LOCK] Thread 'Luzi_Darrent' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 01:55:35 - handlers.thread_handler - INFO - Thread 'Luzi_Darrent' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 01:55:49 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by puttsxx in Fire Department | Crystal Pride RP
+2025-07-20 01:55:49 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by puttsxx in Fire Department | Crystal Pride RP
+2025-07-20 01:56:30 - thread_actions - INFO - [DELETE] Thread 'Disscus Here' by puttsxx in Fire Department | Crystal Pride RP
+2025-07-20 01:59:03 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:59:03 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:59:03 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:59:03 - discord.client - INFO - logging in using static token
+2025-07-20 01:59:03 - bot - INFO - Bot is setting up...
+2025-07-20 01:59:03 - bot - INFO - Synced 0 command(s)
+2025-07-20 01:59:03 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3a67be7e2f731139d12c64a2889786f3).
+2025-07-20 01:59:05 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 01:59:05 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 01:59:05 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 01:59:05 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 01:59:30 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 01:59:30 - config - INFO - Configuration loaded from config.json
+2025-07-20 01:59:30 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 01:59:30 - discord.client - INFO - logging in using static token
+2025-07-20 01:59:30 - bot - INFO - Bot is setting up...
+2025-07-20 02:00:03 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:00:03 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d178706ad7f1ec9b44ba9e98c21d7e17).
+2025-07-20 02:00:05 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:00:05 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:00:05 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:00:05 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:01:27 - thread_actions - INFO - [LOCK] Thread 'Luzi_Darrent' by mr_nandar in Fire Department | Crystal Pride RP
+2025-07-20 02:01:28 - handlers.thread_handler - INFO - Thread 'Luzi_Darrent' locked by mr_nandar in Fire Department | Crystal Pride RP
+2025-07-20 02:04:07 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:04:07 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:04:07 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:04:07 - discord.client - INFO - logging in using static token
+2025-07-20 02:04:08 - bot - INFO - Bot is setting up...
+2025-07-20 02:04:08 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:04:08 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b60cd61e802936d7cb2d24655130fc27).
+2025-07-20 02:04:10 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:04:10 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:04:10 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:04:10 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:07:48 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:07:49 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:07:49 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:07:49 - discord.client - INFO - logging in using static token
+2025-07-20 02:07:49 - bot - INFO - Bot is setting up...
+2025-07-20 02:07:49 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:07:49 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ce1a79fb2cac997549d0ae8abe169428).
+2025-07-20 02:07:51 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:07:51 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:07:51 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:07:51 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:09:37 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:09:37 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:09:37 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:09:37 - discord.client - INFO - logging in using static token
+2025-07-20 02:09:38 - bot - INFO - Bot is setting up...
+2025-07-20 02:09:38 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:09:38 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a740061723bf80f621e21dc2ef41593f).
+2025-07-20 02:09:40 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:09:40 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:09:40 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:09:40 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:10:54 - thread_actions - INFO - [LOCK] Thread 'Luzi_Darrent' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:10:59 - thread_actions - INFO - [AUTO_DELETE] Thread 'Luzi_Darrent' by urhalcyon. in Fire Department | Crystal Pride RP - Auto-deleted by Handle Blacklist role
+2025-07-20 02:10:59 - handlers.thread_handler - INFO - Thread 'Luzi_Darrent' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:12:10 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:12:10 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:12:10 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:12:10 - discord.client - INFO - logging in using static token
+2025-07-20 02:12:10 - bot - INFO - Bot is setting up...
+2025-07-20 02:12:10 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:12:10 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f09810c3ad12014fc66eea8d258f1f8d).
+2025-07-20 02:12:12 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:12:12 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:12:12 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:12:12 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:12:48 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:12:48 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:12:48 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:12:48 - discord.client - INFO - logging in using static token
+2025-07-20 02:12:48 - bot - INFO - Bot is setting up...
+2025-07-20 02:12:48 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:12:48 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b0b04b023858a1674497ee65fb3cff99).
+2025-07-20 02:12:51 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:12:51 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:12:51 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:12:51 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:13:34 - thread_actions - INFO - [LOCK] Thread 'Format Recruitment [Name]' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:13:34 - handlers.thread_handler - INFO - Thread 'Format Recruitment [Name]' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:14:21 - thread_actions - INFO - [LOCK] Thread 'Javier Nathanael' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:14:27 - thread_actions - INFO - [AUTO_DELETE] Thread 'Javier Nathanael' by urhalcyon. in Fire Department | Crystal Pride RP - Auto-deleted by Handle Blacklist role
+2025-07-20 02:14:27 - handlers.thread_handler - INFO - Thread 'Javier Nathanael' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:15:12 - thread_actions - INFO - [LOCK] Thread 'Nama IC' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:15:18 - thread_actions - INFO - [AUTO_DELETE] Thread 'Nama IC' by urhalcyon. in Fire Department | Crystal Pride RP - Auto-deleted by Handle Blacklist role
+2025-07-20 02:15:18 - handlers.thread_handler - INFO - Thread 'Nama IC' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:19:24 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:19:24 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:19:24 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:19:24 - discord.client - INFO - logging in using static token
+2025-07-20 02:19:24 - bot - INFO - Bot is setting up...
+2025-07-20 02:19:24 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:19:25 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2fc8e41da0b2fda2614f37ba04b83359).
+2025-07-20 02:19:27 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:19:27 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:19:27 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:19:27 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:20:17 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:20:18 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:21:39 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:21:39 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:21:39 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:21:39 - discord.client - INFO - logging in using static token
+2025-07-20 02:21:39 - bot - INFO - Bot is setting up...
+2025-07-20 02:21:40 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:21:40 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 684cde0cf2083bd9333f203fc25c1e3f).
+2025-07-20 02:21:42 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:21:42 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:21:42 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:21:42 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:21:55 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:21:55 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:03 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:03 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:30 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:22:30 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:22:30 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:22:30 - discord.client - INFO - logging in using static token
+2025-07-20 02:22:30 - bot - INFO - Bot is setting up...
+2025-07-20 02:22:30 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:22:31 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4466bc3bcf09be99a12b20d611da9855).
+2025-07-20 02:22:33 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:22:33 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:22:33 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:22:33 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:22:44 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:44 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:52 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:53 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:58 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:22:58 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:26:15 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:26:15 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:26:15 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:26:15 - discord.client - INFO - logging in using static token
+2025-07-20 02:26:16 - bot - INFO - Bot is setting up...
+2025-07-20 02:26:16 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:26:16 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0714176bd621f46a62286636f76c28e6).
+2025-07-20 02:26:18 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:26:18 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:26:18 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:26:18 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:26:42 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:27:44 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:28:10 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:28:10 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:28:10 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:28:10 - discord.client - INFO - logging in using static token
+2025-07-20 02:28:11 - bot - INFO - Bot is setting up...
+2025-07-20 02:28:11 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:28:11 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1f9fbded8d53236cc6be2c6f9062d5e6).
+2025-07-20 02:28:13 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:28:13 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:28:13 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:28:13 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:28:53 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:28:54 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:30:05 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dilan_s109 in Fire Department | Crystal Pride RP
+2025-07-20 02:30:05 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dilan_s109 in Fire Department | Crystal Pride RP
+2025-07-20 02:30:15 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:30:15 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:30:29 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dilan_s109 in Fire Department | Crystal Pride RP
+2025-07-20 02:30:29 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dilan_s109 in Fire Department | Crystal Pride RP
+2025-07-20 02:34:19 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:34:19 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:36:10 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 02:36:10 - config - INFO - Configuration loaded from config.json
+2025-07-20 02:36:10 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 02:36:10 - discord.client - INFO - logging in using static token
+2025-07-20 02:36:11 - bot - INFO - Bot is setting up...
+2025-07-20 02:36:11 - bot - INFO - Synced 0 command(s)
+2025-07-20 02:36:11 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 516aa50dcae366a25eb0094db4fb5c70).
+2025-07-20 02:36:13 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 02:36:13 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 02:36:13 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 02:36:13 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 02:36:30 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:36:31 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 02:52:54 - thread_actions - INFO - [LOCK] Thread 'hpizz' by huhuhu8241 in Fire Department | Crystal Pride RP
+2025-07-20 02:53:00 - thread_actions - INFO - [AUTO_DELETE] Thread 'hpizz' by huhuhu8241 in Fire Department | Crystal Pride RP - Auto-deleted from special channel
+2025-07-20 02:53:00 - handlers.thread_handler - INFO - Thread 'hpizz' locked by huhuhu8241 in Fire Department | Crystal Pride RP
+2025-07-20 02:54:28 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by huhuhu8241 in Fire Department | Crystal Pride RP
+2025-07-20 02:54:28 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by huhuhu8241 in Fire Department | Crystal Pride RP
+2025-07-20 03:17:51 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 03:17:51 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 03:17:51 - config - INFO - Configuration loaded from config.json
+2025-07-20 03:17:51 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 03:17:51 - config - INFO - Configuration loaded from config.json
+2025-07-20 03:17:51 - discord.client - INFO - logging in using static token
+2025-07-20 03:17:51 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 03:17:51 - discord.client - INFO - logging in using static token
+2025-07-20 03:17:52 - bot - INFO - Bot is setting up...
+2025-07-20 03:17:52 - bot - INFO - Bot is setting up...
+2025-07-20 03:17:52 - bot - INFO - Synced 0 command(s)
+2025-07-20 03:17:53 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c4252b7b88e3416802b04a682eb01714).
+2025-07-20 03:17:55 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 03:17:55 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 03:17:55 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 03:17:55 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 03:17:59 - thread_actions - INFO - [LOCK] Thread 'Lyonetta Fiorella' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 03:17:59 - handlers.thread_handler - INFO - Thread 'Lyonetta Fiorella' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 03:18:03 - thread_actions - INFO - [DELETE] Thread 'Lyonetta Fiorella' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 03:18:52 - bot - INFO - Synced 0 command(s)
+2025-07-20 03:18:53 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cadd645f2cf67443d2d74e709348d850).
+2025-07-20 03:18:55 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 03:18:55 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 03:18:55 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 03:18:55 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 03:20:13 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 03:20:13 - config - INFO - Configuration loaded from config.json
+2025-07-20 03:20:13 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 03:20:13 - discord.client - INFO - logging in using static token
+2025-07-20 03:20:13 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.95:5000
+2025-07-20 03:20:13 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 03:20:13 - bot - INFO - Bot is setting up...
+2025-07-20 03:20:13 - bot - INFO - Synced 0 command(s)
+2025-07-20 03:20:13 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 21d852b2d44f77862ff6225d291ae109).
+2025-07-20 03:20:15 - werkzeug - INFO - 172.31.128.95 - - [20/Jul/2025 03:20:15] "GET / HTTP/1.1" 200 -
+2025-07-20 03:20:15 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 03:20:15 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 03:20:15 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 03:20:15 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 03:23:45 - werkzeug - INFO - 172.31.128.95 - - [20/Jul/2025 03:23:45] "GET / HTTP/1.1" 200 -
+2025-07-20 03:33:18 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:18 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:18 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:18 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:26 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:26 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:27 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:27 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:38 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:38 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:39 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 03:33:39 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by dani17.th in Fire Department | Crystal Pride RP
+2025-07-20 04:49:42 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 04:49:42 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 04:49:42 - config - INFO - Configuration loaded from config.json
+2025-07-20 04:49:42 - config - INFO - Configuration loaded from config.json
+2025-07-20 04:49:42 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 04:49:42 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 04:49:42 - discord.client - INFO - logging in using static token
+2025-07-20 04:49:42 - discord.client - INFO - logging in using static token
+2025-07-20 04:49:42 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.92:5000
+2025-07-20 04:49:42 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 04:49:42 - bot - INFO - Bot is setting up...
+2025-07-20 04:49:42 - bot - INFO - Bot is setting up...
+2025-07-20 04:49:43 - bot - INFO - Synced 0 command(s)
+2025-07-20 04:49:43 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 22890711c7690f1626b52e451e15ee52).
+2025-07-20 04:49:45 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 04:49:45 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 04:49:45 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 04:49:45 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 04:50:03 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 04:50:03 - config - INFO - Configuration loaded from config.json
+2025-07-20 04:50:03 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 04:50:03 - discord.client - INFO - logging in using static token
+2025-07-20 04:50:03 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.92:8080
+2025-07-20 04:50:03 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 04:50:04 - bot - INFO - Bot is setting up...
+2025-07-20 04:50:04 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1396304515183022081/commands responded with 429. Retrying in 8.79 seconds.
+2025-07-20 04:51:09 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 04:51:09 - config - INFO - Configuration loaded from config.json
+2025-07-20 04:51:09 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 04:51:09 - discord.client - INFO - logging in using static token
+2025-07-20 04:51:09 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.92:8080
+2025-07-20 04:51:09 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 04:51:09 - bot - INFO - Bot is setting up...
+2025-07-20 04:51:11 - werkzeug - INFO - 172.31.128.92 - - [20/Jul/2025 04:51:11] "GET / HTTP/1.1" 200 -
+2025-07-20 04:51:19 - __main__ - INFO - Keep-alive server started on port 8080
+2025-07-20 04:51:19 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 04:51:19 - config - INFO - Configuration loaded from config.json
+2025-07-20 04:51:19 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 04:51:19 - discord.client - INFO - logging in using static token
+2025-07-20 04:51:19 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.92:8080
+2025-07-20 04:51:19 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 04:51:19 - bot - INFO - Bot is setting up...
+2025-07-20 04:51:21 - werkzeug - INFO - 172.31.128.92 - - [20/Jul/2025 04:51:21] "GET / HTTP/1.1" 200 -
+2025-07-20 04:51:35 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 04:51:35] "GET /status HTTP/1.1" 200 -
+2025-07-20 04:52:13 - bot - INFO - Synced 0 command(s)
+2025-07-20 04:52:13 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e3a94e7d4976e090b89fa86644ae48dd).
+2025-07-20 04:52:15 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 04:52:15 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 04:52:15 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 04:52:15 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 04:52:30 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 04:52:31 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 04:52:41 - thread_actions - INFO - [LOCK] Thread 'Joy Lawrence' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 04:52:46 - thread_actions - INFO - [AUTO_DELETE] Thread 'Joy Lawrence' by urhalcyon. in Fire Department | Crystal Pride RP - Auto-deleted from special channel
+2025-07-20 04:52:49 - handlers.thread_handler - INFO - Thread 'Joy Lawrence' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 04:57:32 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 04:57:32] "GET / HTTP/1.1" 200 -
+2025-07-20 04:59:51 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 04:59:51 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 05:00:49 - werkzeug - INFO - 172.31.128.92 - - [20/Jul/2025 05:00:49] "GET / HTTP/1.1" 200 -
+2025-07-20 05:01:42 - thread_actions - INFO - [LOCK] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 05:01:43 - handlers.thread_handler - INFO - Thread 'Disscus Here' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 05:01:47 - thread_actions - INFO - [DELETE] Thread 'Disscus Here' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 05:50:35 - __main__ - INFO - Keep-alive server started on port 8080
+2025-07-20 05:50:35 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 05:50:35 - config - INFO - Configuration loaded from config.json
+2025-07-20 05:50:35 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 05:50:35 - discord.client - INFO - logging in using static token
+2025-07-20 05:50:35 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.78:8080
+2025-07-20 05:50:35 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 05:50:36 - bot - INFO - Bot is setting up...
+2025-07-20 05:50:36 - bot - INFO - Synced 0 command(s)
+2025-07-20 05:50:36 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9586506c96c012118a762f148660a0a6).
+2025-07-20 05:50:38 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 05:50:38] "GET / HTTP/1.1" 200 -
+2025-07-20 05:50:38 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 05:50:38 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 05:50:38 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 05:50:38 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 05:53:22 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 05:53:22] "GET / HTTP/1.1" 200 -
+2025-07-20 05:53:45 - __main__ - INFO - Keep-alive server started on port 8080
+2025-07-20 05:53:45 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 05:53:45 - config - INFO - Configuration loaded from config.json
+2025-07-20 05:53:45 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 05:53:45 - discord.client - INFO - logging in using static token
+2025-07-20 05:53:45 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.78:8080
+2025-07-20 05:53:45 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 05:53:46 - bot - INFO - Bot is setting up...
+2025-07-20 05:53:46 - bot - INFO - Synced 0 command(s)
+2025-07-20 05:53:46 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b0f5c57748f41df18b1bcb044eb9581b).
+2025-07-20 05:53:48 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 05:53:48 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 05:53:48 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 05:53:48 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 05:54:02 - __main__ - INFO - Keep-alive server started on port 8080
+2025-07-20 05:54:02 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 05:54:02 - config - INFO - Configuration loaded from config.json
+2025-07-20 05:54:02 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 05:54:02 - discord.client - INFO - logging in using static token
+2025-07-20 05:54:02 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.78:8080
+2025-07-20 05:54:02 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 05:54:03 - bot - INFO - Bot is setting up...
+2025-07-20 05:54:04 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 05:54:04] "GET / HTTP/1.1" 200 -
+2025-07-20 05:54:46 - bot - INFO - Synced 0 command(s)
+2025-07-20 05:54:46 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 07f4424ef20355f251c62ef26b6ec9e8).
+2025-07-20 05:54:48 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 05:54:48 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 05:54:48 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 05:54:48 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 06:01:37 - __main__ - INFO - Starting keep-alive web server...
+2025-07-20 06:01:37 - __main__ - INFO - Keep-alive server started successfully on port 8080
+2025-07-20 06:01:37 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.78:8080
+2025-07-20 06:01:37 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 06:01:38 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 06:01:38 - config - INFO - Configuration loaded from config.json
+2025-07-20 06:01:38 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 06:01:38 - __main__ - INFO - Web interface available for monitoring and pinging
+2025-07-20 06:01:38 - discord.client - INFO - logging in using static token
+2025-07-20 06:01:39 - bot - INFO - Bot is setting up...
+2025-07-20 06:01:39 - bot - INFO - Synced 0 command(s)
+2025-07-20 06:01:39 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3fbec844c363488edfd84d6398b01b6c).
+2025-07-20 06:01:40 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:01:40] "GET / HTTP/1.1" 200 -
+2025-07-20 06:01:41 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 06:01:41 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 06:01:41 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 06:01:41 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 06:01:49 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 06:01:49] "GET /ping HTTP/1.1" 200 -
+2025-07-20 06:01:49 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 06:01:49] "GET /health HTTP/1.1" 200 -
+2025-07-20 06:04:00 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:04:00] "GET / HTTP/1.1" 200 -
+2025-07-20 06:04:12 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:04:12] "GET /ping HTTP/1.1" 200 -
+2025-07-20 06:04:17 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:04:17] "GET / HTTP/1.1" 200 -
+2025-07-20 06:10:51 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:10:51] "GET / HTTP/1.1" 200 -
+2025-07-20 06:10:52 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:10:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-20 06:11:51 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:11:51] "HEAD / HTTP/1.1" 200 -
+2025-07-20 06:15:22 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:15:22] "GET / HTTP/1.1" 200 -
+2025-07-20 06:15:35 - thread_actions - INFO - [LOCK] Thread 'Report' by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 06:15:35 - handlers.thread_handler - INFO - Thread 'Report' locked by urhalcyon. in Fire Department | Crystal Pride RP
+2025-07-20 06:16:55 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:16:55] "HEAD / HTTP/1.1" 200 -
+2025-07-20 06:21:59 - werkzeug - INFO - 172.31.128.78 - - [20/Jul/2025 06:21:59] "HEAD / HTTP/1.1" 200 -
+2025-07-20 07:48:53 - __main__ - INFO - Starting keep-alive web server...
+2025-07-20 07:48:53 - __main__ - INFO - Keep-alive server started successfully on port 8080
+2025-07-20 07:48:53 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.128.89:8080
+2025-07-20 07:48:53 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:48:54 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-20 07:48:54 - config - INFO - Configuration loaded from config.json
+2025-07-20 07:48:54 - __main__ - INFO - Starting Discord Thread Lock Bot...
+2025-07-20 07:48:54 - __main__ - INFO - Web interface available for monitoring and pinging
+2025-07-20 07:48:54 - discord.client - INFO - logging in using static token
+2025-07-20 07:48:54 - bot - INFO - Bot is setting up...
+2025-07-20 07:48:55 - bot - INFO - Synced 0 command(s)
+2025-07-20 07:48:55 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ed3412394082c5d7ba501534efc4064c).
+2025-07-20 07:48:55 - werkzeug - INFO - 172.31.128.89 - - [20/Jul/2025 07:48:55] "GET / HTTP/1.1" 200 -
+2025-07-20 07:48:57 - bot - INFO - Auto Lock Thread#1010 has connected to Discord!
+2025-07-20 07:48:57 - bot - INFO - Bot is in 2 guild(s)
+2025-07-20 07:48:57 - bot - INFO - Guild: Aetherian Sovereignty (ID: 1088120058783465536)
+2025-07-20 07:48:57 - bot - INFO - Guild: Fire Department | Crystal Pride RP (ID: 1252187253632008253)
+2025-07-20 07:49:58 - thread_actions - INFO - [LOCK] Thread 'Discuss Here' by urhalcyon. in Aetherian Sovereignty
+2025-07-20 07:49:58 - handlers.thread_handler - INFO - Thread 'Discuss Here' locked by urhalcyon. in Aetherian Sovereignty
+2025-07-20 07:53:54 - werkzeug - INFO - 172.31.128.89 - - [20/Jul/2025 07:53:54] "HEAD / HTTP/1.1" 200 -
+2025-07-20 07:58:58 - werkzeug - INFO - 172.31.128.89 - - [20/Jul/2025 07:58:58] "HEAD / HTTP/1.1" 200 -
+2025-07-20 08:02:39 - werkzeug - INFO - 172.31.128.89 - - [20/Jul/2025 08:02:39] "GET / HTTP/1.1" 200 -
